@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void go(View view) {
         btn.setText("Oh, yea, I’ve been clicked!");
-        btn.setTextSize(20);
+        btn.setTextSize(25);
     }
 }
