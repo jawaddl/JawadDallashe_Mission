@@ -8,8 +8,9 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="130dp"
-        android:layout_height="71dp"
+        android:layout_width="237dp"
+        android:layout_height="116dp"
+        android:onClick="go"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
